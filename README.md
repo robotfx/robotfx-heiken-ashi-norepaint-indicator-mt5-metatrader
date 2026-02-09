@@ -1,0 +1,31 @@
+<div class="post-body post-content">
+<div class="speech-bubble">
+<img alt="A trading chart displaying the non-repainting Heiken Ashi indicator for MetaTrader 5." border="0" data-original-height="1280" data-original-width="1280" height="100" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAmIrUZwGrhvx6Vqb_sYz9aN5A2fS-4yTpmzkjFN7_VY6oh-L0d-yRA0A6Ds8phjC6OhbybI0vTtcA1kMIxtXJytf6_JzN7tHaPZYsTk8QRCNVFcdp7WpnLQ3f_zzsvVASfvxpLdJ3kB5aTI85mBt1f7wKQEwZEvUGey4o7czPMgvon67Dy8kGyj3fPACU/w640-h276-e90-rw/heiken-ashi-no-repaint-1536x662.png" style="display: block; float: left; margin-right: 5px;" width="100"/>
+<strong>No Repaint Heiken Ashi indicator</strong> for <strong>MetaTrader 5</strong>, with the options to enable / disable repainting.
+</div>
+<p>Based on the <strong>classic Heiken Ashi indicator</strong> included in <strong>MetaTrader 5</strong>, this <strong>NoRepaint Heiken Ashi</strong> delivers exactly what its name says: <strong>faster drawing</strong> and <strong>non-repainting Heiken Ashi candles</strong>.</p>
+<div style="text-align: center;">
+<h3><a href="#" id="Examples" name="Examples" title="Heiken Ashi NoRepaint Examples">Heiken Ashi NoRepaint Chart examples</a></h3>
+</div>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAmIrUZwGrhvx6Vqb_sYz9aN5A2fS-4yTpmzkjFN7_VY6oh-L0d-yRA0A6Ds8phjC6OhbybI0vTtcA1kMIxtXJytf6_JzN7tHaPZYsTk8QRCNVFcdp7WpnLQ3f_zzsvVASfvxpLdJ3kB5aTI85mBt1f7wKQEwZEvUGey4o7czPMgvon67Dy8kGyj3fPACU/s1536/heiken-ashi-no-repaint-1536x662.png" style="margin-left: 1em; margin-right: 1em;"><img alt="A trading chart displaying the non-repainting Heiken Ashi indicator." border="0" data-original-height="662" data-original-width="1536" height="276" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAmIrUZwGrhvx6Vqb_sYz9aN5A2fS-4yTpmzkjFN7_VY6oh-L0d-yRA0A6Ds8phjC6OhbybI0vTtcA1kMIxtXJytf6_JzN7tHaPZYsTk8QRCNVFcdp7WpnLQ3f_zzsvVASfvxpLdJ3kB5aTI85mBt1f7wKQEwZEvUGey4o7czPMgvon67Dy8kGyj3fPACU/w640-h276-e90-rw/heiken-ashi-no-repaint-1536x662.png" title="Heiken Ashi NoRepaint (MT5 indicator)" width="640"/></a></div>
+<p>The difference is clearly visible, with the <strong>no repaint indicator</strong> allowing a more precise (and more often, based on the price action) <strong>color change</strong> of the Heiken Ashi candles.</p>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2pKCTqnaSGRq5u4-MeVQFNBzlexoBxIGoeeRu-DsQk37mMva3_DqAutUwHCq9JGXR3o4lbWfW7_FrUuZazdAI8iCoSR_IHBe2WQvAIqEOyk_6qXe44dMHwpVowgOA1NncI6NSySI4QmbFAnqlAU_cVh9zH0lvCYiNzLvCl06vQmjIpIuS_U3of4hif1Xc/s1536/heiken-ashi-classic-1536x662.png" style="display: block; padding: 1em 0px; text-align: center;"><img alt="A trading chart with the classic Heiken Ashi indicator showing repainting candles." border="0" data-original-height="662" data-original-width="1536" height="276" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2pKCTqnaSGRq5u4-MeVQFNBzlexoBxIGoeeRu-DsQk37mMva3_DqAutUwHCq9JGXR3o4lbWfW7_FrUuZazdAI8iCoSR_IHBe2WQvAIqEOyk_6qXe44dMHwpVowgOA1NncI6NSySI4QmbFAnqlAU_cVh9zH0lvCYiNzLvCl06vQmjIpIuS_U3of4hif1Xc/w640-h276-e90-rw/heiken-ashi-classic-1536x662.png" title="Heiken Ashi NoRepaint (MT5 indicator)" width="640"/></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<h3><a href="#" id="Settings" name="Settings" title="Heiken Ashi NoRepaint Settings">Heiken Ashi NoRepaint Settings</a></h3>
+</div>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMloiA3rXQugVJI7-ziOyrwBIvm2gXPBGsleFm7LQ0jALCjWVbvFusIXQKtvnUwQ4pg2CFsfePJHVuwTRei0vCHxHvOompxF4gjiEEuX3efP3f0MFFbaPkUx18XwAQo_sRi8sNqAF8cuSdWgHmlbNx5u9GZ4EjN9DOOqh5mO9Fg4ss6UTbzLrsCBqTIjGg/s573/heiken-ashi-settings-no-repaint.png" style="display: block; padding: 1em 0px; text-align: center;"><img alt="Heiken Ashi NoRepaint (MT5 indicator) settings" border="0" data-original-height="345" data-original-width="573" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMloiA3rXQugVJI7-ziOyrwBIvm2gXPBGsleFm7LQ0jALCjWVbvFusIXQKtvnUwQ4pg2CFsfePJHVuwTRei0vCHxHvOompxF4gjiEEuX3efP3f0MFFbaPkUx18XwAQo_sRi8sNqAF8cuSdWgHmlbNx5u9GZ4EjN9DOOqh5mO9Fg4ss6UTbzLrsCBqTIjGg/s16000-e90-rw/heiken-ashi-settings-no-repaint.png" title="Heiken Ashi NoRepaint (MT5 indicator)"/></a></div>
+<p>The Heiken Ashi indicator settings are very simple, with only 2 options that the trader can choose from:<br/>
+– <strong>enable/disable the fast generation of Heiken Ashi candles</strong><br/>
+– <strong>enable/disable the repainting option</strong></p>
+<div style="background-color: #f8f8f8; border: 1px solid rgb(0, 0, 0); padding: 10px 20px 0px;">
+<h4 style="font-weight: normal;">Download <strong>Heiken Ashi NoRepaint</strong> free</h4>
+<a href="https://drive.google.com/uc?export=download&amp;id=1r1kR5iNOc4S3iUqOKIParEMIC6GFgbAS" id="freedownload" name="freedownload" rel="noopener noreferrer nofollow" target="_blank" title="Free download">
+<div style="-ms-flex-align: center; -webkit-align-items: center; -webkit-box-align: center; align-items: center; background-color: #444444; border-radius: 4px; border: 1px solid rgb(255, 255, 255); color: #f0f0f0; display: flex; font-family: Roboto; font-size: 1.2em; justify-content: center; margin: 0px auto; padding: 14px 20px; text-align: center; width: 80%;"><svg height="24" style="margin-right: 10px;" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M13 13v5.585l1.828-1.828 1.415 1.415L12 22.414l-4.243-4.242 1.415-1.415L11 18.585V13h2zM12 2a7.001 7.001 0 0 1 6.954 6.194 5.5 5.5 0 0 1-.953 10.784L18 17a6 6 0 0 0-11.996-.225L6 17v1.978a5.5 5.5 0 0 1-.954-10.784A7 7 0 0 1 12 2z" fill="rgba(240,240,240,1)"></path></svg> Download a free version</div>
+</a>
+<em style="color: #4e4e4e; font-family: Roboto; font-size: 0.8em;"><span style="color:gold; size:1.2em; font-style: normal">⚠</span> fully functional but limited to trading on demo accounts</em>
+</div>
+<span id="theprice">13</span>
+
+
+
+</div>
